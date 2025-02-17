@@ -60,11 +60,11 @@ sudo mv installAndRun.sh /usr/local/bin/installAndRun
 ## ⚙️ Customization
 The script is configured to launch an app with the package name:
 ```bash
-com.homagames.studio.allinhole
+com.yourstudio.yourapp
 ```
 If you want to launch a different app, update this section in the script:
 ```bash
-adb shell monkey -p com.homagames.studio.allinhole -c android.intent.category.LAUNCHER 1
+adb shell monkey -p com.yourstudio.yourapp -c android.intent.category.LAUNCHER 1
 ```
 
 ---
@@ -76,4 +76,4 @@ This project is licensed under the **MIT License**.
 
 ## 🧑‍💻 Author
 **Your Name**  
-[GitHub Profile](https://github.com/yourusername) | [LinkedIn Profile](https://www.linkedin.com/in/yourlinkedin)
+[LinkedIn Profile]([https://www.linkedin.com/in/yourlinkedin](https://www.linkedin.com/in/nikoloz-astamidze/))
