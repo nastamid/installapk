@@ -76,4 +76,4 @@ This project is licensed under the **MIT License**.
 
 ## 🧑‍💻 Author
 **Your Name**  
-[LinkedIn Profile]([https://www.linkedin.com/in/yourlinkedin](https://www.linkedin.com/in/nikoloz-astamidze/))
+[LinkedIn Profile](https://www.linkedin.com/in/nikoloz-astamidze/)
